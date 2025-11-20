@@ -1,0 +1,4 @@
+body { font-family: system-ui, Arial, sans-serif; margin: 0; padding: 0 }
+main { max-width: 800px; margin: 0 auto }
+input, textarea { width: 100%; padding: 8px; box-sizing: border-box; margin-bottom: 8px }
+button { padding: 6px 10px }
